@@ -1,0 +1,14 @@
+{
+  "name": "SnakeGame",
+  "version": "1.0.0",
+  "description": "A simple Snake game made in Javascript by Rafael Liufe",
+  "main": "window.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Rafael Liufe",
+  "license": "MIT",
+  "devDependencies": {}
+}
