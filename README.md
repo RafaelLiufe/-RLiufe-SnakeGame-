@@ -10,12 +10,12 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/RafaelLiufe/RLiufe-SnakeGame>
+$ git clone https://github.com/RafaelLiufe/RLiufe-SnakeGame
 
 # Vá até o diretório base
 $ cd RLiufe-SnakeGame/
 
-# Instale o [Electron](https://github.com/electron/electron)
+# Instale o Electron
 $ npm install --save-dev electron
 
 # Execute o Jogo
